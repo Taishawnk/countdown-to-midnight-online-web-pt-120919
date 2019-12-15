@@ -2,7 +2,7 @@
 
 def countdown
   x = 10
-  while
-  puts
+  while x > 0 
+  puts 
  end
 end
