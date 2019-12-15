@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown
-  x = 12
+  x = 10
   while x > 0 
   puts "#{x} SECOND(S)!"
   x -= 1 
@@ -16,7 +16,7 @@ return countdown
 
 
 def countdown_with_sleep
-  x = 12
+  x = 10
   while x > 0 
   puts "#{x} SECOND(S)!"
 sleep (5)
